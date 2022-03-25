@@ -1,10 +1,10 @@
 {
-  "name": "arkitecht/fedex-laravel",
+  "name": "nazalas/fedex-laravel",
   "description": "A service provider to integrate FedEx servces into your Laravel Project",
   "license": "MIT",
   "require": {
     "laravel/framework": "^5.0",
-    "arkitecht/fedex-php": "dev-master",
+    "nazalas/fedex-php": "^9.0",
     "wsdltophp/packagebase": "dev-master"
   },
   "autoload": {
